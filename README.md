@@ -1,5 +1,5 @@
 # socket-example
 
-# npm install express@4
+ npm install express@4
 
-# node index.js
+ run in terminal => node index.js
